@@ -14,3 +14,4 @@ max1 = max(sint)
 
 
 print(min1, max1)
+print(min1, max1)
