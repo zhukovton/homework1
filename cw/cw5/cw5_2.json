@@ -1,0 +1,58 @@
+{
+    "cw5_1.json": {
+        "size": 199,
+        "suffix": ".json"
+    },
+    "cw5_1.py": {
+        "size": 1144,
+        "suffix": ".py"
+    },
+    "cw5_2.json": {
+        "size": 1407,
+        "suffix": ".json"
+    },
+    "cw5_2.py": {
+        "size": 469,
+        "suffix": ".py"
+    },
+    "prac1_1.py": {
+        "size": 369,
+        "suffix": ".py"
+    },
+    "prac1_2.py": {
+        "size": 526,
+        "suffix": ".py"
+    },
+    "prac1_3.py": {
+        "size": 666,
+        "suffix": ".py"
+    },
+    "prac1_4.py": {
+        "size": 51,
+        "suffix": ".py"
+    },
+    "prac2.py": {
+        "size": 1003,
+        "suffix": ".py"
+    },
+    "taskjson.py": {
+        "size": 532,
+        "suffix": ".py"
+    },
+    "test.json": {
+        "size": 49,
+        "suffix": ".json"
+    },
+    "todolist.py": {
+        "size": 1467,
+        "suffix": ".py"
+    },
+    "todolist.txt": {
+        "size": 225,
+        "suffix": ".txt"
+    },
+    "__init__.py": {
+        "size": 0,
+        "suffix": ".py"
+    }
+}
